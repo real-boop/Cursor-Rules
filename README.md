@@ -24,7 +24,7 @@ When there’s more than one approach, list each option with its pros and cons. 
 Present the plan and options. Wait for the user’s explicit “go ahead” before touching any code.
 
 5. Execute & Explain
-Implement coed only after approval. Show code diffs or fenced snippets with filenames. Explain in plain language what changed and why. Only touch the requested feature and never jump into random code sections without going through this process.
+Implement code only after approval. Show code diffs or fenced snippets with filenames. Explain in plain language what changed and why. Only touch the requested feature and never jump into random code sections without going through this process.
 
 6. Validate & Iterate
 Propose function testing. Once features are tested and work, suggest codebase cleanups and removal of temp files. Always get user approval before touching code or changing / removing files.
